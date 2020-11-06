@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/monx-dev/eslint-config-next/compare/v1.0.6...v1.0.7) (2020-11-06)
+
+
+### Bug Fixes
+
+* config ([518c213](https://github.com/monx-dev/eslint-config-next/commit/518c213594c082c8b8534abbf0fcb135998d05b1))
+* eslint ([abf3ee6](https://github.com/monx-dev/eslint-config-next/commit/abf3ee62ae1fa0c94f2c6ce150f878e473f9bc65))
+
 ## [1.0.6](https://github.com/monx-dev/eslint-config-next/compare/v1.0.5...v1.0.6) (2020-11-06)
 
 

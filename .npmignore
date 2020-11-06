@@ -1,8 +1,9 @@
+.github/
 node_modules/
-*.log
+.prettierrc.js
 commitlint.config.js
 husky.config.js
 release.config.js
 .dependabot/
-.github/
 *.md
+*.log

@@ -1,7 +1,7 @@
 {
   "name": "@monx/eslint-config-next",
   "version": "1.0.5",
-  "main": "src/config.js",
+  "main": "index.js",
   "scripts": {
     "commit": "git-cz",
     "release": "semantic-release"

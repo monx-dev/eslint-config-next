@@ -1,6 +1,6 @@
 {
   "name": "@monx/eslint-config-next",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "src/config.js",
   "scripts": {
     "commit": "git-cz",
